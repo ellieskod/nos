@@ -6,10 +6,13 @@ NOS is a lightweight, trigger-based audio narration system. It allows creators t
 
 Project structure draft
 /nos/
+
 ├── nos.js               ← The runtime library
+
 ├── config.json          ← JSON config for scroll/element triggers
+
 ├── audio/               ← Folder containing all narration audio clips
-│   ├── ...
+
 
 The nos.js is included on the page to be narrated
 
@@ -17,5 +20,5 @@ Once linked, NOS will automatically:
 
 -Load config.json
 -Register scroll/audio/element triggers
--Play the appropriate audio at the right time or position
+-Play the appropriate audio at the right time or scrub position
 -Respect all accessibility settings and only activate when allowed
