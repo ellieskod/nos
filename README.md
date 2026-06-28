@@ -1,7 +1,7 @@
 #NOS 
 
 Narration Overlay System
-NOS is a lightweight, trigger-based audio narration system. It allows creators to add scroll-based, hover-based, or element-linked audio narration to any webpage. The system is modular, accessible, and completely local — no server or cloud processing required. Aims to be a multimodal platform for integrated audio experiences accessible to everyone. 
+NOS is a lightweight, trigger-based audio narration system. It allows creators to add scroll-based, hover-based, or element-linked audio narration to any webpage. The system is modular, accessible, and completely local - no server or cloud processing required. Aims to be a multimodal platform for integrated audio experiences. 
 
 
 Project structure draft
